@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924780235762",
+    "project_id": "testingmotification",
+    "storage_bucket": "testingmotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924780235762:android:c018deb410b048983af96b",
+        "android_client_info": {
+          "package_name": "com.kst.testingnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924780235762-bth29nhk03octknmqvgo97asf9dduvg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcSK_YVVpJrQbHCdFwH-oFlpoTujYseg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924780235762-bth29nhk03octknmqvgo97asf9dduvg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
